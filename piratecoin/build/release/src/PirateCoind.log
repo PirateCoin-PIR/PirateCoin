@@ -1,0 +1,51 @@
+2020-Apr-05 23:12:30.508148 INFO    [daemon] PirateCoin v1.0.3.3 ()
+2020-Apr-05 23:12:30.783803 INFO    [daemon] Module folder: ./PirateCoind
+2020-Apr-05 23:12:30.848535 INFO    [daemon] Initializing p2p server...
+2020-Apr-05 23:12:31.238803 INFO    [node_server] Generated new peer ID: 12213569710643076006
+2020-Apr-05 23:12:31.239419 INFO    [node_server] Network: 0e1b6c73-3373-5cb7-961f-9ecf07cec7fa
+2020-Apr-05 23:12:31.262019 INFO    [node_server] Binding on 0.0.0.0:19450
+2020-Apr-05 23:12:31.263132 INFO    [node_server] Net service binded on 0.0.0.0:19450
+2020-Apr-05 23:12:31.263363 INFO    [node_server] Attempting to add IGD port mapping.
+2020-Apr-05 23:12:35.459453 INFO    [node_server] No IGD was found.
+2020-Apr-05 23:12:35.460017 INFO    [daemon] P2p server initialized OK
+2020-Apr-05 23:12:35.460331 INFO    [daemon] Initializing core...
+2020-Apr-05 23:12:35.462315 INFO    [Blockchain] Blockchain not loaded, generating genesis block.
+2020-Apr-05 23:12:35.462895 INFO    [Blockchain] Blockchain initialized. last block: 0, d2832.h17.m12.s35 time ago, current difficulty: 1
+2020-Apr-05 23:12:35.463233 INFO    [daemon] Core initialized OK
+2020-Apr-05 23:12:35.463829 INFO    [daemon] Starting core rpc server on address 127.0.0.1:19451
+2020-Apr-05 23:12:35.464347 INFO    [daemon] Core rpc server started ok
+2020-Apr-05 23:12:35.464691 INFO    [daemon] Starting p2p net loop...
+2020-Apr-05 23:12:35.465001 INFO    [node_server] Starting node_server
+2020-Apr-05 23:12:50.511325 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:12:50.511980 INFO    [core] 
+2020-Apr-05 23:12:50.511980 INFO    [core] **********************************************************************
+2020-Apr-05 23:12:50.511980 INFO    [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2020-Apr-05 23:12:50.511980 INFO    [core] 
+2020-Apr-05 23:12:50.511980 INFO    [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2020-Apr-05 23:12:50.511980 INFO    [core] 
+2020-Apr-05 23:12:50.511980 INFO    [core] Use "help" command to see the list of available commands.
+2020-Apr-05 23:12:50.511980 INFO    [core] 
+2020-Apr-05 23:12:50.511980 INFO    [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2020-Apr-05 23:12:50.511980 INFO    [core] **********************************************************************
+2020-Apr-05 23:13:07.523394 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:13:24.529662 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:13:41.533727 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:13:58.538351 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:14:15.543941 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:14:32.548252 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:14:49.553265 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:15:06.557900 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:15:23.562180 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:15:40.567483 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:15:57.572774 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:16:14.581472 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:16:31.585115 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:16:48.591691 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:17:05.610273 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:17:22.614542 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:17:39.619848 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:17:56.624376 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:18:13.628848 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:18:30.632098 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:18:47.637114 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Apr-05 23:19:04.644238 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
